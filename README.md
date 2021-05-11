@@ -11,3 +11,9 @@ also added feature for save layout by bookmark
 **drag and drop**
 ![](qsCustomReport01.gif)
 
+**sub category by master tables**
+![](qsCustomReport02.gif)
+
+**save report state by bookmark**
+![](qsCustomReport03.gif)
+
